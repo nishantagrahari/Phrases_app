@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pharases</string>
+    <string name="Beautiful">Beautiful</string>
+    <string name="Excuse_me">Excuse me</string>
+    <string name="HI">HI</string>
+    <string name="Hello">Hello</string>
+    <string name="How_much_is_it">How much is it</string>
+    <string name="Thank_you">Thank you</string>
+    <string name="Very_good">Very good</string>
+    <string name="Where_is_the_bathroom">Where is the bathroom</string>
+</resources>
